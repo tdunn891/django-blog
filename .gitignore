@@ -4,3 +4,4 @@ __py_cache__/
 /venv
 .DS_Store
 .vscode/
+env.py
